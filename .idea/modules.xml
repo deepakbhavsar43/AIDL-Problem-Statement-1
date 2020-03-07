@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDL-receipt-scanner.iml" filepath="$PROJECT_DIR$/AIDL-receipt-scanner.iml" group="AIDL-receipt-scanner" />
+      <module fileurl="file://$PROJECT_DIR$/app/AIDL-receipt-scanner-app.iml" filepath="$PROJECT_DIR$/app/AIDL-receipt-scanner-app.iml" group="AIDL-receipt-scanner/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="digimate/app" />
+      <module fileurl="file://$PROJECT_DIR$/digimate.iml" filepath="$PROJECT_DIR$/digimate.iml" group="digimate" />
+    </modules>
+  </component>
+</project>
